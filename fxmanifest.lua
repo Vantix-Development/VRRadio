@@ -6,7 +6,7 @@ description 'Vantix Radio: in-game custom radio'
 version '1.0'
 
 -- Edit config.json for community name and loading screen (welcome, rules, news).
-supersede_radio 'RADIO_01_CLASS_ROCK' { url = 'http://51.255.235.165:2128/stream.mp3', volume = 0.3, name = 'Vantix Radio', logo = 'nui://radio/logo.png' }
+supersede_radio 'RADIO_01_CLASS_ROCK' { url = 'https://eu8.fastcast4u.com/proxy/vantixradio/stream.mp3', volume = 0.3, name = 'Vantix Radio', logo = 'nui://radio/logo.png' }
 
 files {
 	'index.html',
