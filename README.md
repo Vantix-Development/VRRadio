@@ -27,43 +27,6 @@ ensure VRRadio
 4. Configure your radio stations using the resource configuration.
 5. Restart your server.
 
-## ⚙️ Configuration
-
-VRRadio uses resource metadata for configuration, making setup simple without requiring complex edits.
-
-Customize:
-
-* Radio station names
-* Stream URLs
-* Display information
-* Station behavior
-
-## 📡 Stream Requirements
-
-VRRadio supports standard online audio streams, including:
-
-* Shoutcast
-* Icecast
-* HTTPS MP3 streams
-
-## 💡 Example Use Cases
-
-* Community radio stations
-* Emergency services dispatch audio
-* Roleplay news stations
-* Music stations
-* Event broadcasts
-
-## 🤝 Contributing
-
-Pull requests, bug reports, and feature suggestions are always welcome.
-
-## 📄 License
-
-This project is released under the MIT License unless otherwise specified.
-
----
-
 Made with ❤️ by **Vantix Development**
 
 # Credits 
